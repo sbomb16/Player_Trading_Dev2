@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Player Trading",
+"productVersion": "0.1",
+"dataUrl": "Player_Trading_Dev2_WEBGL.data.unityweb",
+"wasmCodeUrl": "Player_Trading_Dev2_WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Player_Trading_Dev2_WEBGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
